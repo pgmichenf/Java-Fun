@@ -1,4 +1,4 @@
 # Java-Fun
-Java Playgroun Repo
+Java Playground Repo
 
 Repository to play with Java.
